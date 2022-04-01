@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EstudianteModelStoreContainer" CdmEntityContainer="EstudianteEntities">
+    <EntitySetMapping Name="estudiante">
+      <EntityTypeMapping TypeName="EstudianteModel.estudiante">
+        <MappingFragment StoreEntitySet="estudiante">
+          <ScalarProperty Name="idEstudiante" ColumnName="idEstudiante" />
+          <ScalarProperty Name="nombresEstudiante" ColumnName="nombresEstudiante" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="usuario" ColumnName="usuario" />
+          <ScalarProperty Name="contrasenia" ColumnName="contrasenia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="materia">
+      <EntityTypeMapping TypeName="EstudianteModel.materia">
+        <MappingFragment StoreEntitySet="materia">
+          <ScalarProperty Name="idMateria" ColumnName="idMateria" />
+          <ScalarProperty Name="nombreMateria" ColumnName="nombreMateria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="notas">
+      <EntityTypeMapping TypeName="EstudianteModel.notas">
+        <MappingFragment StoreEntitySet="notas">
+          <ScalarProperty Name="idNotas" ColumnName="idNotas" />
+          <ScalarProperty Name="idEstudiante" ColumnName="idEstudiante" />
+          <ScalarProperty Name="idMateria" ColumnName="idMateria" />
+          <ScalarProperty Name="nota" ColumnName="nota" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

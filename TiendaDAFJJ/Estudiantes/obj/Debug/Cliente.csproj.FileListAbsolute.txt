@@ -1,0 +1,16 @@
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\EntityFramework.dll
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\EntityFramework.xml
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Estudiantes.Estudiante.resources
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\Español\Desktop\+UNAB+\Ciclo - II\POO\Visual Studio 2019\Estudiantes - copia\Estudiantes\obj\Debug\Estudiantes.Vista.VistaClientes.resources
